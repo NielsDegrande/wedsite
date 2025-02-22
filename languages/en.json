@@ -7,22 +7,22 @@
     "rsvp": "rsvp"
   },
   "hero": {
-    "subtitle": "OCTOBER 24–25, 2025 • JAMSHEDPUR, INDIA"
+    "subtitle": "OCTOBER 24 & 25, 2025 • JAMSHEDPUR, INDIA"
   },
   "intro": {
     "welcome": "Welcome to our wedding website! We are so excited to celebrate our special day with you."
   },
   "info": {
     "heading": "practical info",
-    "details": "Our wedding weekend will take place in Jamshedpur on October 24–25, 2025.\n\nPlease plan to arrive by midday on October 24th so that you can settle in before the Mehendi ceremony.\n\nMore details on flights, hotels, and transportation are below."
+    "details": "Our wedding weekend will take place in Jamshedpur on October 24 & 25, 2025.<br/>Please plan to arrive by October 23rd so that you can settle in.<br/>More details on flights, hotels, and transportation are below."
   },
   "program": {
     "heading": "program",
     "day1": {
       "title": "day 1",
       "mehendi": {
-        "title": "mehendi ceremony (14:00–16:00)",
-        "points": "<li>Mehndi, otherwise known as henna, is a paste associated with positive spirits and good luck.</li><li>We invite you to get your hands decorated with this immersive Indian tradition.</li><li>Attire: Celebratory colours - flowy pants, dresses, or something simple! You choose :)</li>"
+        "title": "mehendi ceremony (10:00–13:00)",
+        "points": "<li>Mehndi, otherwise known as henna, is a paste associated with positive spirits and good luck.</li><li>We invite you to get your hands decorated with this immersive Indian tradition.</li><li>Attire: Celebratory colours - flowy pants, dresses, or something simple!</li>"
       },
       "sangeet": {
         "title": "sangeet & cocktail night (18:00–22:00)",
@@ -32,30 +32,30 @@
     "day2": {
       "title": "day 2",
       "haldi": {
-        "title": "haldi ceremony (10:00–11:00)",
-        "points": "<li>Haldi, Holi and Games fun outdoor activities.</li><li>There will be flowers and colour involved.</li><li>Attire: Casual, comfortable outdoor wear. Preferably light colours that you don't mind getting messy in. They might get spoiled during the event. Bright, easy-to-wash clothes.</li>"
+        "title": "haldi ceremony (10:00–13:00)",
+        "points": "<li>Haldi, Holi and Games fun outdoor activities.</li><li>Attire: Comfortable outdoor wear. Preferably light colours that you don't mind getting messy in.</li>"
       },
       "wedding": {
-        "title": "wedding ceremony (15:00–17:00)",
-        "points": "<li>You are invited to witness a modified Indian wedding ceremony.</li><li>There will be fire involved.</li><li>Attire: traditional Indian or formal Western.</li>"
+        "title": "wedding ceremony (16:00–18:00)",
+        "points": "<li>Witness a modified Indian wedding ceremony.</li><li>Attire: traditional Indian or formal Western.</li>"
       },
       "reception": {
         "title": "reception & dinner (18:00–21:00)",
-        "points": "<li>You are invited to join us for an intimate dinner under the stars.</li><li>A toast to celebrating Niels & Prianka and kickstarting an time together.</li><li>Attire: Anything you like.</li>"
+        "points": "<li>Join us for an intimate dinner under the stars.</li>"
       }
     }
   },
   "faq": {
     "heading": "faq",
     "questions": {
-      "dress": "<strong>Q: Is there a dress code?</strong><br />A: We encourage Indian attire, but anything festive or semi-formal is great.",
-      "visa": "<strong>Q: Do I need a visa?</strong><br />A: Depending on your country of residence, yes. Check the Indian government's e-visa guidelines.",
-      "plusOne": "<strong>Q: Can I bring a plus one?</strong><br />A: Of course! Please let us know when you RSVP."
+      "accommodation": "<strong>Where can I stay?</strong><br />Fill out the RSVP form and we will take care of it for you.",
+      "plusOne": "<strong>Can I bring a plus one?</strong><br />Of course! Please let us know when you RSVP.",
+      "visa": "<strong>Do I need a visa?</strong><br />Depending on your country of residence, yes. Check the Indian government's e-visa guidelines. Belgians and Swedes can get an e-visa <a href=\"https://indianvisaonline.gov.in/evisa/tvoa.html\" target=\"_blank\" rel=\"noopener\">here</a>."
     }
   },
   "rsvp": {
     "heading": "rsvp",
-    "details": "Please click the button below to let us know if you can make it. We hope to see you soon!",
+    "details": "Please click the button below to let us know if you can make it.",
     "button": "RSVP HERE"
   }
 }
