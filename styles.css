@@ -53,12 +53,11 @@ footer,
 nav ul {
   list-style-type: none;
   display: inline-block;
-  gap: 1rem;
 }
 
 nav li {
   display: inline-block;
-  margin: 0 1rem;
+  margin: 0 0.8rem;
 }
 
 /* Hero section. */
@@ -142,7 +141,7 @@ ul.custom-bullets li::before {
   content: "♡";
   position: absolute;
   left: 0;
-  top: 0.5rem;
+  top: 0.65rem;
   color: var(--color-text);
   font-size: 0.4rem;
 }

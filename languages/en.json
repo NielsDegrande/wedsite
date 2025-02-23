@@ -49,13 +49,14 @@
     "heading": "faq",
     "questions": {
       "accommodation": "<strong>Where can I stay?</strong><br />Fill out the RSVP form and we will take care of it for you.",
+      "deadline": "<strong>When do I need to RSVP by?</strong><br />Please RSVP by May 1st, 2025.",
       "plusOne": "<strong>Can I bring a plus one?</strong><br />Of course! Please let us know when you RSVP.",
       "visa": "<strong>Do I need a visa?</strong><br />Depending on your country of residence, yes. Check the Indian government's e-visa guidelines. Belgians and Swedes can get an e-visa <a href=\"https://indianvisaonline.gov.in/evisa/tvoa.html\" target=\"_blank\" rel=\"noopener\">here</a>."
     }
   },
   "rsvp": {
     "heading": "rsvp",
-    "details": "Please click the button below to let us know if you can make it.",
+    "details": "Please click the button below to let us know if you can make it.<br/>Formal invitation will follow once we have received your RSVP.",
     "button": "RSVP HERE"
   }
 }
